@@ -1,4 +1,4 @@
-# # DataFeed
+ # DataFeed
   Utilizando o protocolo de comunicação Telnet, que se baseia no protocolo de rede TCP.
   Ao estabelecer a conexão, será solicitada a autenticação do usuário e sua senha. Então, o usuário receberá a confirmação e então a conexão estará disponível para o envio de comandos.
   
